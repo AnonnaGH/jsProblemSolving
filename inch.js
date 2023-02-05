@@ -7,3 +7,14 @@
  const dadaFeet = inchToFeet(dadaInches);
 
  console.log(dadaFeet);
+
+
+ const nanaInches = 165;
+ const nanaFeet = inchToFeet(nanaInches);
+
+ console.log(nanaFeet);
+
+ const dadiInches = 165;
+ const dadiFeet = inchToFeet(dadiInches);
+
+ console.log(dadiFeet);
