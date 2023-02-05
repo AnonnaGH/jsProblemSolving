@@ -1,13 +1,14 @@
 function isEven(number){
     const remainder = number %2;
     if(remainder == 0){
-        console.log('Even');
+       return true;
     }
     else{
-        console.log('Odd');
+        
+        return false;
     }
 
-    return isEven;
+   
 }
 
 const num1= 101;
